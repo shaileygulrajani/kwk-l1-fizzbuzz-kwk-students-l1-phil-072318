@@ -9,3 +9,4 @@ puts "Grab a sweater"
 
 elsif weather < 30 
 puts "Stay inside"
+end 

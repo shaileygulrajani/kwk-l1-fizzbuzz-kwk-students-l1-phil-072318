@@ -1,2 +1,2 @@
 puts "What is the weather?"
-weather = gets.chomp.
+weather = gets.chomp.to_i

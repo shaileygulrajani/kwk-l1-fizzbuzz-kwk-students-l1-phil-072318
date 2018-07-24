@@ -1,1 +1,1 @@
-puts
+puts "What is the weather?"

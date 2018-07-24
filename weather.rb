@@ -5,4 +5,5 @@ if weather > 70
   puts "Your outfit is fine"
   
 elsif weather >= 30 && weather <= 70
-puts ""
+puts "Grab a sweater"
+

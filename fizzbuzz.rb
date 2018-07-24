@@ -1,2 +1,2 @@
 puts "Choose a number"
-number = bits.chomp.to_i
+number = gets.chomp.to_i

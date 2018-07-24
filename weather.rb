@@ -7,3 +7,5 @@ if weather > 70
 elsif weather >= 30 && weather <= 70
 puts "Grab a sweater"
 
+elsif weather < 30 
+puts ""

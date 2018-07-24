@@ -8,4 +8,4 @@ elsif weather >= 30 && weather <= 70
 puts "Grab a sweater"
 
 elsif weather < 30 
-puts ""
+puts "Stay inside"

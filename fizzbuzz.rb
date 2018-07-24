@@ -1,4 +1,5 @@
-puts "Choose a number"
-number = gets.chomp.to_i
-
-if  
+def fizzbuzz(value)
+  
+  
+  
+end 

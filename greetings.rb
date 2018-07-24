@@ -4,7 +4,7 @@ time = gets.chomp
 if time < 5 
   puts "Don't talk to me"
   
-  elsif time > 5 && < 10 
+  elsif time > 5 && time < 10 
   puts "Good morning"
   
   elsif time > 10 && time < 16

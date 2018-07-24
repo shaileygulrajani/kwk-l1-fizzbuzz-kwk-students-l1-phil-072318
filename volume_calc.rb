@@ -5,5 +5,5 @@ puts "Is this a circle or a sphere?"
 shape = gets.chomp
 
 if shape == "circle" 
-puts "Your radius is #{3.14*radius*radius}"
+puts "Your area is #{3.14*radius*radius}"
 end 
